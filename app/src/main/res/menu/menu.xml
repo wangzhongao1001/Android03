@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:title="PopuWindow" android:id="@+id/pop"/>
+    <item android:title="广播" android:id="@+id/borad"/>
+    <item android:title="打电话" android:id="@+id/call"/>
+</menu>
